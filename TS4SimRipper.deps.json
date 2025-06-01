@@ -1,0 +1,188 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0/win-x64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {},
+    ".NETCoreApp,Version=v6.0/win-x64": {
+      "TS4SimRipper/3.14.2.7": {
+        "dependencies": {
+          "Ookii.Dialogs.Wpf": "5.0.1",
+          "protobuf-net": "3.2.30",
+          "DDSPanel": "2002.10.2050.28504",
+          "s4pi.ImageResource": "2104.21.1513.18410",
+          "s4pi.Interfaces": "2104.21.1514.18445",
+          "s4pi.Package": "2002.10.2050.28502",
+          "s4pi.Settings": "2104.21.1515.18463"
+        },
+        "runtime": {
+          "TS4SimRipper.dll": {}
+        }
+      },
+      "Ookii.Dialogs.Wpf/5.0.1": {
+        "runtime": {
+          "lib/net6.0-windows7.0/Ookii.Dialogs.Wpf.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.1.0"
+          }
+        }
+      },
+      "protobuf-net/3.2.30": {
+        "dependencies": {
+          "protobuf-net.Core": "3.2.30"
+        },
+        "runtime": {
+          "lib/net6.0/protobuf-net.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.2.30.709"
+          }
+        }
+      },
+      "protobuf-net.Core/3.2.30": {
+        "dependencies": {
+          "System.Collections.Immutable": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/protobuf-net.Core.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.2.30.709"
+          }
+        }
+      },
+      "System.Collections.Immutable/7.0.0": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Collections.Immutable.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
+      "DDSPanel/2002.10.2050.28504": {
+        "runtime": {
+          "DDSPanel.dll": {
+            "assemblyVersion": "2002.10.2050.28504",
+            "fileVersion": "2002.10.2050.28504"
+          }
+        }
+      },
+      "s4pi.ImageResource/2104.21.1513.18410": {
+        "runtime": {
+          "s4pi.ImageResource.dll": {
+            "assemblyVersion": "2104.21.1513.18410",
+            "fileVersion": "2104.21.1513.18410"
+          }
+        }
+      },
+      "s4pi.Interfaces/2104.21.1514.18445": {
+        "runtime": {
+          "s4pi.Interfaces.dll": {
+            "assemblyVersion": "2104.21.1514.18445",
+            "fileVersion": "2104.21.1514.18445"
+          }
+        }
+      },
+      "s4pi.Package/2002.10.2050.28502": {
+        "runtime": {
+          "s4pi.Package.dll": {
+            "assemblyVersion": "2002.10.2050.28502",
+            "fileVersion": "2002.10.2050.28502"
+          }
+        }
+      },
+      "s4pi.Settings/2104.21.1515.18463": {
+        "runtime": {
+          "s4pi.Settings.dll": {
+            "assemblyVersion": "2104.21.1515.18463",
+            "fileVersion": "2104.21.1515.18463"
+          }
+        }
+      },
+      "System.Custom/2104.21.1514.18445": {
+        "runtime": {
+          "System.Custom.dll": {
+            "assemblyVersion": "2104.21.1514.18445",
+            "fileVersion": "2104.21.1514.18445"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TS4SimRipper/3.14.2.7": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ookii.Dialogs.Wpf/5.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iZNnZwqTpK0cfR0vkotncP1c025/PHlIdzc7iEKBYwhVv1V0zXp9/RT/O0kMhsmlwXqRxxbE4pdhfinbJXtjPg==",
+      "path": "ookii.dialogs.wpf/5.0.1",
+      "hashPath": "ookii.dialogs.wpf.5.0.1.nupkg.sha512"
+    },
+    "protobuf-net/3.2.30": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-C/UTlmxEJHAHpqm8xQK1UyJKaIynVCSNG4mVrbLgnZ7ccH28nN49O8iMJvKEodTgVbnimvy+3mIiAdW6mATwnw==",
+      "path": "protobuf-net/3.2.30",
+      "hashPath": "protobuf-net.3.2.30.nupkg.sha512"
+    },
+    "protobuf-net.Core/3.2.30": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-v2ZxxYrz+X212ukSx+uqkLuPu414bvmSAnTyf+PBUKR9ENJxO4P/csorA/27456MCp1JNoMssDj/f91RDiwBfQ==",
+      "path": "protobuf-net.core/3.2.30",
+      "hashPath": "protobuf-net.core.3.2.30.nupkg.sha512"
+    },
+    "System.Collections.Immutable/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dQPcs0U1IKnBdRDBkrCTi1FoajSTBzLcVTpjO4MBCMC7f4pDOIPzgBoX8JjG7X6uZRJ8EBxsi8+DR1JuwjnzOQ==",
+      "path": "system.collections.immutable/7.0.0",
+      "hashPath": "system.collections.immutable.7.0.0.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    },
+    "DDSPanel/2002.10.2050.28504": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "s4pi.ImageResource/2104.21.1513.18410": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "s4pi.Interfaces/2104.21.1514.18445": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "s4pi.Package/2002.10.2050.28502": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "s4pi.Settings/2104.21.1515.18463": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Custom/2104.21.1514.18445": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
